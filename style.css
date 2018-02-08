@@ -1,0 +1,53 @@
+body
+{
+	background-color:  #000000;
+	font-family: "Arial";
+	font-size:  18px;
+	color: white;
+}
+
+/*h1,h2
+{
+	text-align: center;
+	color: #78E003;
+}*/
+div
+{
+	text-align: center;
+	color: white;
+	background-color: #696969;
+}
+/*
+
+body {...} from lines 3-8 => rule
+font-family: "Comic Sans MS"; line 5 => declaration
+'font-family' => attribute or key
+'"Comic Sans MS"' value
+
+1. HTML element name. Examples: div, body, h1m h2
+2. ID selector: Starts witha  '#'; appplies to elemens with id attribute;
+	should only be used once.
+3. Class selector: Starts with a '.'
+	applies to HTML elements with 'class' attributes;
+	CAN be used multiple times
+
+*/
+
+#header{
+	/*text-align: right;*/
+	font-size: 48px;
+	border: dashed;
+	margin-right: 20%;
+	margin-left: 20%;
+}
+.peeps{
+	background-color: red;
+	font-size: 24px;
+	font-family: "Arial";
+	color: orange;
+	padding: 10px;
+	border-top: dashed;
+	border-bottom: dashed;
+
+}
+
