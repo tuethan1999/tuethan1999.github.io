@@ -12,27 +12,13 @@ h2
 	font-size: 20px;
 	color: #78E003;
 }
+
 div
 {
 	text-align: center;
 	color: white;
 	background-color: #696969;
 }
-/*
-
-body {...} from lines 3-8 => rule
-font-family: "Comic Sans MS"; line 5 => declaration
-'font-family' => attribute or key
-'"Comic Sans MS"' value
-
-1. HTML element name. Examples: div, body, h1m h2
-2. ID selector: Starts witha  '#'; appplies to elemens with id attribute;
-	should only be used once.
-3. Class selector: Starts with a '.'
-	applies to HTML elements with 'class' attributes;
-	CAN be used multiple times
-
-*/
 
 #header{
 	/*text-align: right;*/
@@ -41,6 +27,7 @@ font-family: "Comic Sans MS"; line 5 => declaration
 	margin-right: 20%;
 	margin-left: 20%;
 }
+
 .peeps{
 	background-color: white;
 	font-size: 16px;
@@ -51,6 +38,7 @@ font-family: "Comic Sans MS"; line 5 => declaration
 	border-bottom: dashed;
 
 }
+
 .special{
 	font-size: 20px;
 	font-family: "Arial";
