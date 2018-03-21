@@ -1,6 +1,6 @@
 body
 {
-	background-color:  #000000;
+	background-color:  #2A50A7;
 	font-family: "Arial";
 	font-size:  14px;
 	color: white;
@@ -10,18 +10,18 @@ h2
 {
 	text-align: center;
 	font-size: 20px;
-	color: #78E003;
+	color: #4969B2;
 }
 
 div
 {
 	text-align: center;
 	color: white;
-	background-color: #696969;
+	background-color: #113892;
 }
 
 #header{
-	/*text-align: right;*/
+	background-color: #06025B;
 	font-size: 30px;
 	border: dashed;
 	margin-right: 20%;
@@ -29,10 +29,10 @@ div
 }
 
 .peeps{
-	background-color: white;
+	background-color: #4969B2;
 	font-size: 16px;
-	font-family: "Arial";
-	color: green;
+	font-family: "Georgia";
+	color: white;
 	padding: 5px;
 	border-top: dashed;
 	border-bottom: dashed;
