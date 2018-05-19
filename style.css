@@ -2,3 +2,14 @@
     background-color: #2a2a30;
     font-weight: 100;
 }
+
+#header {
+	font-size: 36px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.wow{
+	font-size: 18px;
+	font-weight: 700;
+}
